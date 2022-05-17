@@ -1,2 +1,2 @@
-# ERMES
+# ![ERMES logo](http://tts.cimne.com/ermes/img/ermes_A.png)
 ERMES (Electric Regularized Maxwell Equations with Singularities) is a finite element (FEM) code in frequency domain. It is the C++ implementation of a FEM formulation based on the regularized Maxwell equations. It is able to calculate electromagnetic fields for several applications: microwave engineering, antenna design, eddy currents, electromagnetic metal forming. ERMES results have been collated with experimental measurements and also with different numerical methods (MoM, FDTD). ERMES has a user-friendly interface based on GiD, which is used as pre- and post- processor. Versions for Windows x-32 and x-64 are available.
